@@ -1,0 +1,5 @@
+Setup Instructions
+
+	1.	SharePoint List: Ensure the SharePoint list is created beforehand with all necessary columns.
+	2.	Power Automate: Import the .zip file containing the flow definition into your environment.
+	3.	Modify Flow: You can adjust parameters like SharePoint list items and columns.
